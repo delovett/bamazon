@@ -37,10 +37,7 @@ inquirer.prompt([
                 throw err;
             }
             console.table(result)
-
-
         })
-
     }
     
     else if (selection === "Create New Department") {

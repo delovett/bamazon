@@ -44,3 +44,7 @@
     1. Added both prompts
     2. Did monster join for sales
     3. Can create new Departments
+
+## Version 8
+
+1. Updated Readme with further information
