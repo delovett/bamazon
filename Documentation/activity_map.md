@@ -9,12 +9,15 @@
 3. Prompt User for quant: The second message should ask how many units of the product they would like to buy.
 
 4. Evaluate Order/Check ID/Qunat: Once the customer has placed the order, your application should check if your store has enough of the product to meet the customer's request.
+	1. Process input
+	2. Query DB for that exact item
+	3. Check!!!!
 
 5. Insufficinet Quant/Log Error Message: If not, the app should log a phrase like `Insufficient quantity!`, and then prevent the order from going through.
 
-6: Sufficient Quant: However, if your store _does_ have enough of the product, you should fulfill the customer's order.
-
+6. Sufficient Quant: However, if your store _does_ have enough of the product, you should fulfill the customer's order.
 7. Update Database: This means updating the SQL database to reflect the remaining quantity.
+	1. Add product sales.
 
 8. Show Total Cost: Once the update goes through, show the customer the total cost of their purchase.
 

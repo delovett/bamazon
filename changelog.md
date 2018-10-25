@@ -20,3 +20,10 @@
 ## Version 4. 
 
 1. Added inquirer shell to all 3 modules. 
+
+## Version 5. 
+
+1. Bamazon Customer
+    1. Added functionality to bamazonCustomer.js
+    2. Per Activity Map
+    3. Finished
