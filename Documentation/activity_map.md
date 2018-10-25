@@ -16,6 +16,7 @@
 5. Insufficinet Quant/Log Error Message: If not, the app should log a phrase like `Insufficient quantity!`, and then prevent the order from going through.
 
 6. Sufficient Quant: However, if your store _does_ have enough of the product, you should fulfill the customer's order.
+
 7. Update Database: This means updating the SQL database to reflect the remaining quantity.
 	1. Add product sales.
 
@@ -23,7 +24,7 @@
 
 ## bamazonManager
 
-1. List Menu Options: Create a new Node application called `bamazonManager.js`. Running this application will: List a set of menu options:
+1. List Menu Options: Create a new Node application called `bamazonManager.js`. Running this application will: List a set of menu options: - choices
 
     * View Products for Sale
     
@@ -38,15 +39,16 @@
 3. View Low Inventory:  If a manager selects `View Low Inventory`, then it should list all items with an inventory count lower than five.
 
 4. Add to Inventory:  If a manager selects `Add to Inventory`, your app should display a prompt that will let the manager "add more" of any item currently in the store.
+	1. First, show items
+	2. Prompt which item
+	3. Update Database based on prompt
 
 5. Add New Product: If a manager selects `Add New Product`, it should allow the manager to add a completely new product to the store.
-
+	1. Prompt for items fields
+	2. Inserit into Database
 
 ## bamazonSupervisor
 
-
-	   
-APPLICATION
 
 1. Prompt User For Options: Create another Node app called `bamazonSupervisor.js`. Running this application will list a set of menu options:
 

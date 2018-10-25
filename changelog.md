@@ -27,3 +27,12 @@
     1. Added functionality to bamazonCustomer.js
     2. Per Activity Map
     3. Finished
+
+## Version 6
+
+1. Bamazon Manager
+    1. Added prompt for all 4 parts
+    2. Show all 
+    3. Show low inventory
+    4. Update inventory
+    5. Add new item
