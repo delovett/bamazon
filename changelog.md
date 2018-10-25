@@ -7,3 +7,16 @@
     1. Activity Diagrams
     2. Database Model
     3. Map Specification to Activity Diagrams
+
+## Version 2
+
+1. Added inquirer
+2. Added mysql. 
+
+## Version 3.
+
+1. Added schema and seeds.
+
+## Version 4. 
+
+1. Added inquirer shell to all 3 modules. 
