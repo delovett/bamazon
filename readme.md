@@ -1,7 +1,12 @@
 # Readme
 
+## Installation
 
-
+1. Run npm install in the root directory
+2. Run node against one of the three applications, 
+    1. bamazonCustomer.js
+    2. bamazonManager.js
+    3. bamazonSupervisor.js
 
 
 ## Libraries

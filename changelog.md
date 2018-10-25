@@ -36,3 +36,11 @@
     3. Show low inventory
     4. Update inventory
     5. Add new item
+
+
+## Version 7
+
+1. Bamazon Supervisor
+    1. Added both prompts
+    2. Did monster join for sales
+    3. Can create new Departments

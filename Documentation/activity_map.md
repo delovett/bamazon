@@ -50,7 +50,7 @@
 ## bamazonSupervisor
 
 
-1. Prompt User For Options: Create another Node app called `bamazonSupervisor.js`. Running this application will list a set of menu options:
+1. Prompt User For 2 Options: Create another Node app called `bamazonSupervisor.js`. Running this application will list a set of menu options:
 
 	   * View Product Sales by Department
 	   
